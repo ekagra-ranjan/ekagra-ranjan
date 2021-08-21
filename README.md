@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Checkout my Professional [Portfolio](https://ekagra-ranjan.github.io/) to know more about me.
+Checkout my Professional [Portfolio](https://ekagra-ranjan.github.io/) to know more about my work.
 
 <!--
 **ekagra-ranjan/ekagra-ranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
